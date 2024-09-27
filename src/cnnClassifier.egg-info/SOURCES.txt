@@ -1,13 +1,14 @@
 README.md
 setup.py
-src/Kidney Diseases Classifier/__init__.py
-src/Kidney Diseases Classifier/components/__init__.py
-src/Kidney Diseases Classifier/config/__init__.py
-src/Kidney Diseases Classifier/config/configuration.py
-src/Kidney Diseases Classifier/constants/__init__.py
-src/Kidney Diseases Classifier/entity/__init__.py
-src/Kidney Diseases Classifier/pipeline/__init__.py
-src/Kidney Diseases Classifier/utils/__init__.py
+src/KidneyDiseasesClassifier/__init__.py
+src/KidneyDiseasesClassifier/components/__init__.py
+src/KidneyDiseasesClassifier/config/__init__.py
+src/KidneyDiseasesClassifier/config/configuration.py
+src/KidneyDiseasesClassifier/constants/__init__.py
+src/KidneyDiseasesClassifier/entity/__init__.py
+src/KidneyDiseasesClassifier/pipeline/__init__.py
+src/KidneyDiseasesClassifier/utils/__init__.py
+src/KidneyDiseasesClassifier/utils/common.py
 src/cnnClassifier.egg-info/PKG-INFO
 src/cnnClassifier.egg-info/SOURCES.txt
 src/cnnClassifier.egg-info/dependency_links.txt
